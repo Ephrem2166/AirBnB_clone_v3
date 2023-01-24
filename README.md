@@ -158,7 +158,7 @@ Make an API for the AirBnB
 
 ## Authors
 * Ephrem Getachew - [Github](https://github.com/Ephrem2166)
-* Negasi Abebe Chekole - [Github](negasiabebe@gmail.com) 
+* Sinework Negasi GTINSAE - [Github](https://github.com/Sineworknegasi) 
 
 
 ## License
